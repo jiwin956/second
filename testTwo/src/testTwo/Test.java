@@ -5,6 +5,7 @@ public class Test {
 		System.out.println("hi");
 		System.out.println("hihi");
 		System.out.println("hihihi");
-		System.out.println("hihihhiio"); 
+		System.out.println("추가합니당"); 
+		
 	}
 }
